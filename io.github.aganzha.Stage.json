@@ -1,7 +1,7 @@
 {
    "app-id": "io.github.aganzha.Stage",
    "runtime": "org.gnome.Platform",
-   "runtime-version": "47",
+   "runtime-version": "48",
    "sdk": "org.gnome.Sdk",
    "sdk-extensions": [
       "org.freedesktop.Sdk.Extension.rust-stable"
@@ -27,7 +27,7 @@
          {
             "type": "git",
             "url": "https://github.com/aganzha/stage.git",
-            "tag": "0.1.16"
+            "tag": "0.1.17"
          },
          "io.github.aganzha.Stage.cargo-sources.json"
       ]
