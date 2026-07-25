@@ -184,6 +184,19 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/bytecount/bytecount-0.6.9.crate",
+        "sha256": "175812e0be2bccb6abe50bb8d566126198344f707e304f45c648fd8f2cc0365e",
+        "dest": "cargo/vendor/bytecount-0.6.9"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"175812e0be2bccb6abe50bb8d566126198344f707e304f45c648fd8f2cc0365e\", \"files\": {}}",
+        "dest": "cargo/vendor/bytecount-0.6.9",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/cairo-rs/cairo-rs-0.21.2.crate",
         "sha256": "dfe4354df4da648870e363387679081f8f9fc538ec8b55901e3740c6a0ef81b1",
         "dest": "cargo/vendor/cairo-rs-0.21.2"
